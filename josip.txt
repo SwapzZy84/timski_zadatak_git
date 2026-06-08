@@ -1,0 +1,5 @@
+Ime: Josip Vibovec
+
+Projekt: Splitora
+
+Ovo je moja tekstualna datoteka za timski GitHub zadatak.
