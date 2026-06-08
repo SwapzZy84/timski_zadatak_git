@@ -2,4 +2,4 @@ Ime: Josip Vibovec
 
 Projekt: Splitora
 
-Ovo je moja tekstualna datoteka za timski GitHub zadatak.
+Ovo je moja tekstualna datoteka za timski GitHub zadatak.Alex Fabreti je dodao recenicu u Josipovu datoteku.
